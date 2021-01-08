@@ -1,1 +1,24 @@
+Création d'un nouveau répertoire sur votre compte GitHUb "test_git".
+On a copié l'URL de ce répertoire sur votre machine locale on utilisant l'option SSH.
+On a cloné le répertoire "Test_git" vers <V.S.CODE> avec la commande "git clone" suivi de l'URL que j'ai copié à la dernière étape.
+Déplacement sur le répertoire cloné puis on a vérifié la connexion, est-ce que s'est bien établie avec le répertoire sur "GitHub" avec la commande "git remote -v".
 
+Création d'un nouveau fichier "git_test" appelé README.md.
+On a tapé la commande "git status", 
+On a tapé la commande git add README.md .
+On a tapé la commande "git status", on remarque que
+on a tapé la commande "git commit -m "Ajouter README.md".
+On a tapé la commande "git status" .
+Nous avons déjà expliqué le "Workflow" .
+On a tapé la commande " git log" ,
+Création d'un nouveau fichier "hello_world.txt" dans le répertoire test_git.
+Vérification de status par la commande "git status".
+On a ajouté une petite présentation sur le fichier "README.md"
+Vérification de status par la commande "git status".
+On a ajouté "README.md" à la staging area avec "git add" .
+ "git add ." => Ajouter tous le fichier qui se trouve dans le répo, mais "git add README.md" => ajouter juste le fichier "README.md" .
+On a ajouté un message de validation descriptif avec la commande "git commit -m "mises à jours" ". 
+  Vérification de status par la commande "git status".
+  On a tapé "git push origin main" .
+Vérification de status par la commande "git status".
+Push vers "Github".
