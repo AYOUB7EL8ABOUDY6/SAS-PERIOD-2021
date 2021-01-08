@@ -1,0 +1,6 @@
+1 – On a lancé la commande « man ».
+2 - l’interpréteur demandait, d’essayer ‘ man man ‘ . => pour savoir le rôle de la commande ‘man’.
+3 – Lancement de la commande « man ls ».
+4 – On a essayé et observé les touches suivante : « espace » « entrée » « b » « G » « p » « / » « n » « q ».
+5 -  La commande « ls » affiche tout d'abord l'ensemble de ses arguments fichiers autres que des répertoires. Et puis la commande « ls » affiche l'ensemble des fichiers contenus dans chaque répertoire indiqué.
+6 -  On a lancé les commandes suivantes : * « ls –l » + * « ls –h » + * « ls –l –h » + * «  ls –lh  » la même chose que * « ls –l –h » .
